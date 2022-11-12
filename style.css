@@ -5,6 +5,10 @@
     margin: 10px;
 }
 
+.snake {
+    background-color: darkgreen;
+}
+
 .field{
     display: flex;
     flex-wrap: wrap;
